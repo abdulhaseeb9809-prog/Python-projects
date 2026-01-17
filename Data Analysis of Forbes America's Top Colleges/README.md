@@ -23,14 +23,14 @@ I used Python to dig into Forbes' 2019 ranking data, focusing on:
 
 ### 1. The Payoff (ROI)
 
-[Insert Image: Cost vs. Salary Scatter Plot]
+![Cost vs Salary Scatter Plot](visuals/Total_annual_cost_vs_alumini_salary.png)
 
 I found that while elite schools have high "sticker prices," their financial aid and alumni 
 networks often lead to the highest long-term earnings.
 
 ###  2. Geographic Hubs
 
-[Insert Image: Colleges per State Bar Chart]
+![Geographic Hubs Plot](visuals/Top_colleges_acrros_us.png)
 
 California and New York remain the dominant players, but certain smaller states offer 
 surprisingly high-value "hidden gem" colleges.
