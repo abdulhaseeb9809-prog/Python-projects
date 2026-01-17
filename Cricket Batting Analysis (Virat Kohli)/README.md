@@ -25,7 +25,7 @@ Using a comprehensive dataset of Kohli’s batting innings, I explored:
 
 ### 1. The 2012 Technical Pivot
 
-Graph Name: runs_transformation_boxplot.png 
+![The 2012](visuals/Runs_transformation_boxplot.png)
 
 By comparing scores before and after 2012, the data shows a clear shift. His "floor" 
 (the minimum expected runs) rose significantly, proving he eliminated the low-score 
@@ -34,7 +34,7 @@ patterns of his early career.
 
 ### 2. The Master of the Chase
 
-Graph Name: innings_performance_comparison.png 
+![The Chase master](visuals/innings_performance_comparison.png)
 
 Visualizing 1st vs. 2nd innings performance confirms his reputation. He isn't just a high scorer; 
 he is more efficient and has a higher 'Not Out' percentage when chasing a target.
@@ -42,7 +42,7 @@ he is more efficient and has a higher 'Not Out' percentage when chasing a target
 
 ### 3. Opposition Strategy & Dismissals
 
-Graph Name: dismissal_pattern_heatmap.png 
+![The Dismissal pattern](visuals/dismissal_pattern_heatmap.png)
 
 This heatmap shows how different international teams have tried to "solve" Kohli. While some teams
 rely on pace to catch him out, others use specific fielding traps that have evolved over his 
@@ -51,7 +51,7 @@ rely on pace to catch him out, others use specific fielding traps that have evol
 
 ### 4. Yearly Growth Trends
 
-Graph Name: yearly_run_trend_line.png 
+![The Yearly Growth](visuals/yearly_run_trend_line.png)
 
 This shows his peak years and how his strike rate actually increased even as he took on the 
 responsibility of anchoring the team in the middle order.
